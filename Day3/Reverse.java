@@ -10,7 +10,9 @@ public class Reverse {
         }
         int ans = 0;
         while(rev>0){
-            
+            ans = ans*100 + (rev%100);
+            rev = rev/100;
         }
+        System.out.println("\n"+ans);
       }
 }
