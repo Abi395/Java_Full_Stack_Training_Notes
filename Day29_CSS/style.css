@@ -1,0 +1,47 @@
+h1,h1.web{
+    color: darkgoldenrod;
+}
+h2{
+    color: darkcyan;
+}
+.new,h3{
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-size: medium;
+    font-style: italic;
+}
+h4{
+    color: rgb(192, 24, 192);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-size: medium;
+    font-style: italic;
+    line-height: normal;
+    letter-spacing: 2;
+    text-transform: uppercase;
+    text-align: center;
+}
+body{
+    background-color: blanchedalmond;
+    background-image: url(pixel\ moon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:top;
+}
+.page{
+    border: black 3px solid;
+    width: 20%;
+    border-top-color: aqua;
+    border-left-color: rgb(121, 17, 50);
+    border-right-color: darkcyan;
+    border-bottom-color: brown;
+    border-style: double;
+    border-top-style: dotted;
+    border-bottom-style:dotted;
+    border-width: 4px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+}
